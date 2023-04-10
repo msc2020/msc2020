@@ -1,6 +1,89 @@
-### Hi there 👋
+<h2>Hello 👋, I'm Marcelo Santos Carielo</h2>
+
+<hr>
+
+<div>
+    <h2><u>ML</u></h2>
+    <ul>
+        <li><h3>🔥 Performance Measures for Classification Tasks: <a href="https://github.com/msc2020/ml-metrics-classification/blob/main/notebooks/ml_metrics_classification_pt1.ipynb">browse online</a> | <a href="https://github.com/msc2020/ml-metrics-classification">repository</a>
+        </h3></li>
+        <li><h3>🐧 Machine Learning to predict rents in Brazil: <a href="https://mybinder.org/v2/gh/msc2020/brazil-rents-machine-learning/HEAD?labpath=Machine%20Learning%20-%20Predict%20rent%20value.ipynb">browse online</a> | <a href="https://github.com/msc2020/brazil-rents-machine-learning">repository</a>
+        </h3></li>
+        <li><h3>🌱 Implements K-Means algorithm and make comparisons: <a href="https://mybinder.org/v2/gh/msc2020/ml-k-means/HEAD?labpath=notebooks%2Fml_kmeans.ipynb">browse online</a> | <a href="https://github.com/msc2020/ml-k-means">repository</a>
+        </h3></li>
+    </ul>
+</div>
+<div>
+    <h2><u>ML/Dev</u></h2>
+    <ul>
+        <li><h3>📄 A news aggregator app: <a href="https://newsaggapp-1-j9368482.deta.app/">browse online</a> | <a href="https://github.com/msc2020/news-agg-app">repository</a>
+        </h3></li>
+        <li><h3>👀 A sentiment phrase analysis app: <a href="https://spacedetafiles-1-p8717802.deta.app/">browse online</a> | <a href="https://github.com/msc2020/type-a-phrase-app">repository</a>
+        </h3></li>
+        <li><h3>☕ Portfolio: <a href="https://portfolio-1-c9901895.deta.app/">browse online</a> | <a href="https://github.com/msc2020/app-home-page">repository</a>
+        </h3></li>
+    </ul>
+</div>
+<div>
+    <h2><u>Others</u></h2>
+    <ul>
+        <li><h3>🤖 Bot to watch video on YouTube: <a href="https://github.com/msc2020/bot-youtube">repository</a>
+        </h3></li>
+        <li><h3>⚡ Ex Machina Type Error: <a href="https://mybinder.org/v2/gh/msc2020/ex-machina-type-error/HEAD?labpath=Ex%20Machina.ipynb">browse online</a> | <a href="https://github.com/msc2020/ex-machina-type-error">repository</a>
+        </h3></li>
+         <li><h3>🧰 Codes developed along PHD studies: <a href="https://github.com/msc2020/intersecao_de_esferas">repository</a>
+        </h3></li>    
+    </ul>
+</div>
+
+<div align="center">
+  <a href="https://br.linkedin.com/in/marcelo-santos-carielo-304143224">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/msc2020">
+    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+  <a href="kaggle.com/msc2021">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<hr>
+<h2>Some tools and languages already used in my git projects:</h2>
+<p>
+    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+    <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+    <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+    <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+    <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+    <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+    <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+    <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+    <img alt="Tidyverse" src="https://img.shields.io/badge/-Tidyverse-1A162D?style=flat-square&logo=tidyverse&logoColor=white"/>
+    <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white"/>
+    <img alt="Octave" src="https://img.shields.io/badge/-Octave-0790C0?style=flat-square&logo=octave&logoColor=white"/>
+    <img alt="Wolfram Mathematica" src="https://img.shields.io/badge/-Wolfram Mathematica-DD1100?style=flat-square&logo=wolframmathematica&logoColor=white"/>
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML-d84924?style=flat-square&logo=html5&logoColor=white"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/-CSS-214ce5?style=flat-square&logo=css3&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-533979?style=flat-square&logo=bootstrap&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f5de19?style=flat-square&logo=javascript&logoColor=black"/>
+    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+    <img alt="Terminal" src="https://img.shields.io/badge/-Terminal-white?style=flat-square&logo=gnometerminal&logoColor=black"/>
+    <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>    
+    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+    <img alt="Railway" src="https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/deta/.github/main/profile/deta.svg" width="2%" height="2%"><img alt="Deta" src="https://img.shields.io/badge/-Deta-000000?style=flat-square&logo=deta&logoColor=white" />
+</p>
+<hr>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=msc2020&label=Profile%20views&color=0e75b6&style=flat" alt="msc2020"/> </p>
+
+
 
 <!--
+https://simpleicons.org/
+
 **msc2020/msc2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +96,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌐, 🗄️, 💻, 🛠️
 -->
