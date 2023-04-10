@@ -1,4 +1,8 @@
-<h3>Hello 👋, I'm Marcelo Santos Carielo</h3>
+<h3>Hello 👋, I'm Marcelo Santos Carielo.</h3> 
+
+<hr>
+
+<h3>Here are some works of this Github:</h3>
 
 <div>
     <h3><u>ML</u></h3>
@@ -34,6 +38,7 @@
     </ul>
 </div>
 
+<hr>
 <div align="center">
   <a href="https://br.linkedin.com/in/marcelo-santos-carielo-304143224">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -47,6 +52,7 @@
   </a>
 </div>
 
+<hr>
 <h3>Some tools and languages already used in my git projects:</h3>
 <p>
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -74,6 +80,7 @@
     <img src="https://raw.githubusercontent.com/deta/.github/main/profile/deta.svg" width="2%" height="2%"><img alt="Deta" src="https://img.shields.io/badge/-Deta-000000?style=flat-square&logo=deta&logoColor=white" />
 </p>
 
+<hr>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=msc2020&label=Profile%20views&color=0e75b6&style=flat" alt="msc2020"/> </p>
 
 
