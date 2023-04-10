@@ -44,7 +44,8 @@
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="kaggle.com/msc2021">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=&logoColor=white" alt="Twitter Badge"/>
+    <!-- <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=&logoColor=white" alt="Twitter Badge"/> -->
+    <img src="https://storage.googleapis.com/kaggle-media/Kaggle%20Brand%20Guidelines%20CMS/transparent%20logo.png" width="7%" height="7%"><img alt="Kaggle" src="https://img.shields.io/badge/-000000?style=flat-square&logo=deta&logoColor=white" />
   </a>
 </div>
 
