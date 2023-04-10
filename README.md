@@ -46,7 +46,6 @@
   </a>
 </div>
 
-<hr>
 <h2>Some tools and languages already used in my git projects:</h2>
 <p>
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -73,10 +72,8 @@
     <img alt="Railway" src="https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/>
     <img src="https://raw.githubusercontent.com/deta/.github/main/profile/deta.svg" width="2%" height="2%"><img alt="Deta" src="https://img.shields.io/badge/-Deta-000000?style=flat-square&logo=deta&logoColor=white" />
 </p>
-<hr>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=msc2020&label=Profile%20views&color=0e75b6&style=flat" alt="msc2020"/> </p>
-
 
 
 <!--
