@@ -1,7 +1,5 @@
 <h2>Hello 👋, I'm Marcelo Santos Carielo</h2>
 
-<hr>
-
 <div>
     <h2><u>ML</u></h2>
     <ul>
