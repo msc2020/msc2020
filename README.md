@@ -1,36 +1,36 @@
-<h2>Hello 👋, I'm Marcelo Santos Carielo</h2>
+<h3>Hello 👋, I'm Marcelo Santos Carielo</h3>
 
 <div>
-    <h2><u>ML</u></h2>
+    <h3><u>ML</u></h3>
     <ul>
-        <li><h3>🔥 Performance Measures for Classification Tasks: <a href="https://github.com/msc2020/ml-metrics-classification/blob/main/notebooks/ml_metrics_classification_pt1.ipynb">browse online</a> | <a href="https://github.com/msc2020/ml-metrics-classification">repository</a>
-        </h3></li>
-        <li><h3>🐧 Machine Learning to predict rents in Brazil: <a href="https://mybinder.org/v2/gh/msc2020/brazil-rents-machine-learning/HEAD?labpath=Machine%20Learning%20-%20Predict%20rent%20value.ipynb">browse online</a> | <a href="https://github.com/msc2020/brazil-rents-machine-learning">repository</a>
-        </h3></li>
-        <li><h3>🌱 Implements K-Means algorithm and make comparisons: <a href="https://mybinder.org/v2/gh/msc2020/ml-k-means/HEAD?labpath=notebooks%2Fml_kmeans.ipynb">browse online</a> | <a href="https://github.com/msc2020/ml-k-means">repository</a>
-        </h3></li>
+        <li><h4>🔥 Performance Measures for Classification Tasks: <a href="https://github.com/msc2020/ml-metrics-classification/blob/main/notebooks/ml_metrics_classification_pt1.ipynb">browse online</a> | <a href="https://github.com/msc2020/ml-metrics-classification">repository</a>
+        </h4></li>
+        <li><h4>🐧 Machine Learning to predict rents in Brazil: <a href="https://mybinder.org/v2/gh/msc2020/brazil-rents-machine-learning/HEAD?labpath=Machine%20Learning%20-%20Predict%20rent%20value.ipynb">browse online</a> | <a href="https://github.com/msc2020/brazil-rents-machine-learning">repository</a>
+        </h4></li>
+        <li><h4>🌱 Implements K-Means algorithm and make comparisons: <a href="https://mybinder.org/v2/gh/msc2020/ml-k-means/HEAD?labpath=notebooks%2Fml_kmeans.ipynb">browse online</a> | <a href="https://github.com/msc2020/ml-k-means">repository</a>
+        </h4></li>
     </ul>
 </div>
 <div>
-    <h2><u>ML/Dev</u></h2>
+    <h3><u>ML/Dev</u></h3>
     <ul>
-        <li><h3>📄 A news aggregator app: <a href="https://newsaggapp-1-j9368482.deta.app/">browse online</a> | <a href="https://github.com/msc2020/news-agg-app">repository</a>
-        </h3></li>
-        <li><h3>👀 A sentiment phrase analysis app: <a href="https://spacedetafiles-1-p8717802.deta.app/">browse online</a> | <a href="https://github.com/msc2020/type-a-phrase-app">repository</a>
-        </h3></li>
-        <li><h3>☕ Portfolio: <a href="https://portfolio-1-c9901895.deta.app/">browse online</a> | <a href="https://github.com/msc2020/app-home-page">repository</a>
-        </h3></li>
+        <li><h4>📄 A news aggregator app: <a href="https://newsaggapp-1-j9368482.deta.app/">browse online</a> | <a href="https://github.com/msc2020/news-agg-app">repository</a>
+        </h4></li>
+        <li><h4>👀 A sentiment phrase analysis app: <a href="https://spacedetafiles-1-p8717802.deta.app/">browse online</a> | <a href="https://github.com/msc2020/type-a-phrase-app">repository</a>
+        </h4></li>
+        <li><h4>☕ Portfolio: <a href="https://portfolio-1-c9901895.deta.app/">browse online</a> | <a href="https://github.com/msc2020/app-home-page">repository</a>
+        </h4></li>
     </ul>
 </div>
 <div>
-    <h2><u>Others</u></h2>
+    <h3><u>Others</u></h3>
     <ul>
-        <li><h3>🤖 Bot to watch video on YouTube: <a href="https://github.com/msc2020/bot-youtube">repository</a>
-        </h3></li>
-        <li><h3>⚡ Ex Machina Type Error: <a href="https://mybinder.org/v2/gh/msc2020/ex-machina-type-error/HEAD?labpath=Ex%20Machina.ipynb">browse online</a> | <a href="https://github.com/msc2020/ex-machina-type-error">repository</a>
-        </h3></li>
-         <li><h3>🧰 Codes developed along PHD studies: <a href="https://github.com/msc2020/intersecao_de_esferas">repository</a>
-        </h3></li>    
+        <li><h4>🤖 Bot to watch video on YouTube: <a href="https://github.com/msc2020/bot-youtube">repository</a>
+        </h4></li>
+        <li><h4>⚡ Ex Machina Type Error: <a href="https://mybinder.org/v2/gh/msc2020/ex-machina-type-error/HEAD?labpath=Ex%20Machina.ipynb">browse online</a> | <a href="https://github.com/msc2020/ex-machina-type-error">repository</a>
+        </h4></li>
+         <li><h4>🧰 Codes developed along PHD studies: <a href="https://github.com/msc2020/intersecao_de_esferas">repository</a>
+        </h4></li>    
     </ul>
 </div>
 
@@ -47,7 +47,7 @@
   </a>
 </div>
 
-<h2>Some tools and languages already used in my git projects:</h2>
+<h3>Some tools and languages already used in my git projects:</h3>
 <p>
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
