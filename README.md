@@ -77,7 +77,7 @@
     <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>    
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
     <img alt="Railway" src="https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/>
-    <img src="https://raw.githubusercontent.com/deta/.github/main/profile/deta.svg" width="2%" height="2%"><img alt="Deta" src="https://img.shields.io/badge/-Deta-000000?style=flat-square&logo=deta&logoColor=white" />
+    <img src="https://raw.githubusercontent.com/deta/.github/main/profile/deta.svg" width="2%" height="2%"><img alt="Deta" src="https://img.shields.io/badge/-Deta-ffffff?style=flat-square&logo=deta&logoColor=white" />
 </p>
 
 <hr>
