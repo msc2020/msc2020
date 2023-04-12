@@ -2,7 +2,7 @@
 
 <hr>
 
-<h3>Here are some works of this Github:</h3>
+<h3>Here are some of my works:</h3>
 
 <div>
     <h3><u>ML</u></h3>
