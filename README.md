@@ -5,6 +5,15 @@
 <h3>Here are some of my works:</h3>
 
 <div>
+    <h3><u>Last Update 💻:</u></h3>
+    <ul>
+        <li><h4>✍️ Multiple Class Classifier: <a href="https://github.com/msc2020/ml-multiclassifier-mnist/blob/main/Multiple%20Class%20Classifier%20-%20MNIST%20Dataset.ipynb">browse online</a> | <a href="https://github.com/msc2020/ml-multiclassifier-mnist">repository</a>
+        </h4></li>                
+    </ul>
+</div>
+<div>
+
+<div>
     <h3><u>ML</u></h3>
     <ul>
         <li><h4>🔥 Performance Measures for Classification Tasks: <a href="https://github.com/msc2020/ml-metrics-classification/blob/main/notebooks/ml_metrics_classification_pt1.ipynb">browse online</a> | <a href="https://github.com/msc2020/ml-metrics-classification">repository</a>
