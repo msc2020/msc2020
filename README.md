@@ -4,6 +4,7 @@
 
 <h3>Here are some of my works:</h3>
 
+
 <div>
     <h3><u>Last Updates :</u></h3>
     <ul>
@@ -56,8 +57,7 @@
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="https://kaggle.com/msc2021">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=&logoColor=white" alt="Twitter Badge"/>
-    <!-- <img src="https://storage.googleapis.com/kaggle-media/Kaggle%20Brand%20Guidelines%20CMS/transparent%20logo.png" width="7%" height="7%"> -->
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=&logoColor=white" alt="Twitter Badge"/>    
   </a>
 </div>
 
@@ -79,11 +79,7 @@
     <img alt="Wolfram Mathematica" src="https://img.shields.io/badge/-Wolfram Mathematica-DD1100?style=flat-square&logo=wolframmathematica&logoColor=white"/>
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML-d84924?style=flat-square&logo=html5&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS-214ce5?style=flat-square&logo=css3&logoColor=white"/> <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-533979?style=flat-square&logo=bootstrap&logoColor=white"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f5de19?style=flat-square&logo=javascript&logoColor=black"/>
-    <!--<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />-->
-    <!--<img alt="Terminal" src="https://img.shields.io/badge/-Terminal-white?style=flat-square&logo=gnometerminal&logoColor=black"/>-->
-    <!--<img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>-->
-    <!--<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>-->
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f5de19?style=flat-square&logo=javascript&logoColor=black"/>    
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
     <img alt="Railway" src="https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/>
     <img src="https://raw.githubusercontent.com/deta/.github/main/profile/deta.svg" width="2.5%" height="3%"><img alt="Deta" src="https://img.shields.io/badge/-Deta-ffffff?style=flat-square&logo=deta&logoColor=white" />
@@ -95,11 +91,8 @@
 
 <!--
 https://simpleicons.org/
-
 **msc2020/msc2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
