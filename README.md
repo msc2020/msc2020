@@ -1,8 +1,8 @@
-<h3>Hello, I'm Marcelo Santos Carielo.</h3> 
+### Hello, I'm Marcelo Santos Carielo.
 
-<hr>
+---
 
-<h3>Here are some of my works:</h3>
+### Here are some of my works:
 
 
 <div>
