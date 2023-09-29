@@ -42,7 +42,7 @@
         </h4></li>
         <li><h4> Ex Machina Type Error: <a href="https://mybinder.org/v2/gh/msc2020/ex-machina-type-error/HEAD?labpath=Ex%20Machina.ipynb">browse online</a> | <a href="https://github.com/msc2020/ex-machina-type-error">repository</a>
         </h4></li>
-         <li><h4> 🧰 Codes developed along PHD studies: <a href="https://github.com/msc2020/intersecao_de_esferas">repository</a>
+         <li><h4> Codes developed along PHD studies: <a href="https://github.com/msc2020/intersecao_de_esferas">repository</a>
         </h4></li>    
     </ul>
 </div>
@@ -108,6 +108,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🌐, 🗄️, 💻, 🛠️, 🐧, 🌱, 🔥, 📄, 👀, ⚡, 🤖, ☕, 👋, ✍️
-
+- 🌐, 🗄️, 💻, 🛠️, 🐧, 🌱, 🔥, 📄, 👀, ⚡, 🤖, ☕, 👋
 -->
