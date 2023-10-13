@@ -8,9 +8,13 @@
 <div>
     <h3><u>Last Updates :</u></h3>
     <ul>
-        <li><h4> Codes for the course "Análise de séries temporais financeiras usando o R": <a href="https://rpubs.com/msc2020">browse online</a> | <a href="https://github.com/msc2020/curso_series_temporais_financeiras">repository</a>
-        </h4></li>                
+        <li><h4>👀 Clustering using Autoencoder and t-SNE: <a href="https://github.com/msc2020/autoenconder_studies/blob/main/Clustering%20using%20Autoencoder%20and%20t-SNE.ipynb">browse online</a> | <a href="https://github.com/msc2020/autoenconder_studies">repository</a>
+        </h4></li>
     </ul>    
+    <ul>
+        <li><h4> Codes for the course "Análise de séries temporais financeiras usando o R": <a href="https://rpubs.com/msc2020">browse online</a> | <a href="https://github.com/msc2020/curso_series_temporais_financeiras">repository</a>
+        </h4></li>
+    </ul>
 </div>
 <div>
 
