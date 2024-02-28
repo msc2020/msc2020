@@ -1,18 +1,7 @@
-<h3>Hello, I'm Marcelo Santos Carielo.</h3> 
-
-<hr>
-
-<h3>Here are some of my works:</h3>
-
-
 <div>
-    <h3><u>Last Updates :</u></h3>
+    <h3><u>Last Updates :</u></h3>    
     <ul>
-        <li><h4>👀 Clustering using Autoencoder and t-SNE: <a href="https://github.com/msc2020/autoenconder_studies/blob/main/Clustering%20using%20Autoencoder%20and%20t-SNE.ipynb">browse online</a> | <a href="https://github.com/msc2020/autoenconder_studies">repository</a>
-        </h4></li>
-    </ul>    
-    <ul>
-        <li><h4> Codes for the course "Análise de séries temporais financeiras usando o R": <a href="https://rpubs.com/msc2020">browse online</a> | <a href="https://github.com/msc2020/curso_series_temporais_financeiras">repository</a>
+        <li><h4>🤔 APP simples para checar plágio: <a href="https://checaplagio-1-a4780033.deta.app/">https://checaplagio-1-a4780033.deta.app/ (clique para navegar online)</a> | <a href="https://github.com/msc2020/checa-plagio-app">ver códigos Python</a>
         </h4></li>
     </ul>
 </div>
@@ -21,16 +10,18 @@
 <div>
     <h3><u>ML</u></h3>
     <ul>
+        <li><h4>Clustering using Autoencoder and t-SNE: <a href="https://github.com/msc2020/autoenconder_studies/blob/main/Clustering%20using%20Autoencoder%20and%20t-SNE.ipynb">browse online</a> | <a href="https://github.com/msc2020/autoenconder_studies">repository</a>
+        </h4></li>
+    </ul>
+    <ul>
         <li><h4> Performance Measures for Classification Tasks: <a href="https://github.com/msc2020/ml-metrics-classification/blob/main/notebooks/ml_metrics_classification_pt1.ipynb">browse online</a> | <a href="https://github.com/msc2020/ml-metrics-classification">repository</a>
-        </h4></li>
-        <li><h4> Machine Learning to predict rents in Brazil: <a href="https://mybinder.org/v2/gh/msc2020/brazil-rents-machine-learning/HEAD?labpath=Machine%20Learning%20-%20Predict%20rent%20value.ipynb">browse online</a> | <a href="https://github.com/msc2020/brazil-rents-machine-learning">repository</a>
-        </h4></li>
+        </h4></li>        
         <li><h4> Implements K-Means algorithm and make comparisons: <a href="https://mybinder.org/v2/gh/msc2020/ml-k-means/HEAD?labpath=notebooks%2Fml_kmeans.ipynb">browse online</a> | <a href="https://github.com/msc2020/ml-k-means">repository</a>
         </h4></li>
     </ul>
 </div>
 <div>
-    <h3><u>ML/Dev</u></h3>
+    <h3><u>Dev/App</u></h3>
     <ul>
         <li><h4> A news aggregator app: <a href="https://newsaggapp-1-j9368482.deta.app/">browse online</a> | <a href="https://github.com/msc2020/news-agg-app">repository</a>
         </h4></li>
@@ -42,12 +33,10 @@
 </div>
 <div>
     <h3><u>Others</u></h3>
-    <ul>
-        <li><h4> Bot to watch video on YouTube: <a href="https://github.com/msc2020/bot-youtube">repository</a>
-        </h4></li>
+    <ul>        
         <li><h4> Ex Machina Type Error: <a href="https://mybinder.org/v2/gh/msc2020/ex-machina-type-error/HEAD?labpath=Ex%20Machina.ipynb">browse online</a> | <a href="https://github.com/msc2020/ex-machina-type-error">repository</a>
         </h4></li>
-         <li><h4> Codes developed along PHD studies: <a href="https://github.com/msc2020/intersecao_de_esferas">repository</a>
+         <li><h4> Codes developed along PHD studies (2019): <a href="https://github.com/msc2020/intersecao_de_esferas">repository</a>
         </h4></li>    
     </ul>
 </div>
@@ -89,8 +78,8 @@
     <img src="https://raw.githubusercontent.com/deta/.github/main/profile/deta.svg" width="2.5%" height="3%"><img alt="Deta" src="https://img.shields.io/badge/-Deta-ffffff?style=flat-square&logo=deta&logoColor=white" />
 </p>
 
-<hr>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=msc2020&label=Profile%20views&color=0e75b6&style=flat" alt="msc2020"/> </p>
+<!-- <hr>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=msc2020&label=Profile%20views&color=0e75b6&style=flat" alt="msc2020"/> </p> -->
 
 
 <!--
