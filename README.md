@@ -1,7 +1,7 @@
 <div>
     <h3><u>Last Updates :</u></h3>    
     <ul>
-        <li><h4>🤔 APP simples para checar plágio: <a href="https://checaplagio-1-a4780033.deta.app/">https://checaplagio-1-a4780033.deta.app/ (clique para navegar online)</a> | <a href="https://github.com/msc2020/checa-plagio-app">ver códigos Python</a>
+        <li><h4>🤔 APP simples para checar plágio:<br> <a href="https://checaplagio-1-a4780033.deta.app/">https://checaplagio-1-a4780033.deta.app/ (clique para navegar online)</a> | <a href="https://github.com/msc2020/checa-plagio-app">ver códigos Python</a>
         </h4></li>
     </ul>
 </div>
