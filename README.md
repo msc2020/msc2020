@@ -33,9 +33,7 @@
 </div>
 <div>
     <h3><u>Others</u></h3>
-    <ul>        
-        <li><h4> Ex Machina Type Error: <a href="https://mybinder.org/v2/gh/msc2020/ex-machina-type-error/HEAD?labpath=Ex%20Machina.ipynb">browse online</a> | <a href="https://github.com/msc2020/ex-machina-type-error">repository</a>
-        </h4></li>
+    <ul>
          <li><h4> Codes developed along PHD studies (2019): <a href="https://github.com/msc2020/intersecao_de_esferas">repository</a>
         </h4></li>    
     </ul>
