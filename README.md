@@ -1,11 +1,3 @@
-<div>
-    <h3><u>Last Updates :</u></h3>    
-    <ul>
-        <li><h4>🤔 Aplicativo simples para checar plágio:<br> <a href="https://checaplagio-1-a4780033.deta.app/">https://checaplagio-1-a4780033.deta.app/ (clique para navegar online)</a> | <a href="https://github.com/msc2020/checa-plagio-app">ver códigos Python</a>
-        </h4></li>
-    </ul>
-</div>
-<div>
 
 <div>
     <h3><u>ML</u></h3>
@@ -96,3 +88,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🌐, 🗄️, 💻, 🛠️, 🐧, 🌱, 🔥, 📄, 👀, ⚡, 🤖, ☕, 👋
 -->
+<!--<div>
+    <h3><u>Last Updates :</u></h3>    
+    <ul>
+        <li><h4>🤔 Aplicativo simples para checar plágio:<br> <a href="https://checaplagio-1-a4780033.deta.app/">https://checaplagio-1-a4780033.deta.app/ (clique para navegar online)</a> | <a href="https://github.com/msc2020/checa-plagio-app">ver códigos Python</a>
+        </h4></li>
+    </ul>
+</div>
+<div>-->
