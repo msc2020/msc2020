@@ -15,11 +15,13 @@
 <div>
     <h3><u>Dev/App</u></h3>
     <ul>
-        <li><h4> A news aggregator app: <a href="https://newsaggapp-1-j9368482.deta.app/">browse online</a> | <a href="https://github.com/msc2020/news-agg-app">repository</a>
+        <li><h4> ⚡Paint ML - MNIST: <a href="https://paint-ml-mnist.up.railway.app/">browse online</a> | <a href="https://github.com/msc2020/news-agg-app">repository</a>
         </h4></li>
-        <li><h4> A sentiment phrase analysis app: <a href="https://spacedetafiles-1-p8717802.deta.app/">browse online</a> | <a href="https://github.com/msc2020/type-a-phrase-app">repository</a>
+        <li><h4> A news aggregator app: <a href="https://news-agg-app.up.railway.app/">browse online</a> | <a href="https://github.com/msc2020/news-agg-app">repository</a>
         </h4></li>
-        <li><h4> Portfolio: <a href="https://portfolio-1-c9901895.deta.app/">browse online</a> | <a href="https://github.com/msc2020/app-home-page">repository</a>
+        <li><h4> A sentiment phrase analysis app: <a href="https://type-a-phrase-app.up.railway.app/">browse online</a> | <a href="https://github.com/msc2020/type-a-phrase-app">repository</a>
+        </h4></li>
+        <li><h4> Portfolio: <a href="https://msc2020.up.railway.app/">browse online</a> | <a href="https://github.com/msc2020/app-home-page">repository</a>
         </h4></li>
     </ul>
 </div>
