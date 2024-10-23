@@ -1,6 +1,21 @@
 
 <div>
-    <h3><u>ML</u></h3>
+    <h3><u>⚡ Dev/App</u></h3>
+    <ul>
+        <li><h4> Paint ML - MNIST: <a href="https://paint-ml-mnist.up.railway.app/">browse online</a>
+        </h4></li>
+        <li><h4> A news aggregator app: <a href="https://news-agg-app.up.railway.app/">browse online</a> | <a href="https://github.com/msc2020/news-agg-app">repository</a>
+        </h4></li>
+        <li><h4> Simples checador de plágio: <a href="https://checa-plagio-app.up.railway.app/">browse online</a> | <a href="https://github.com/msc2020/checa-plagio-app">repository</a>
+        </h4></li>
+        <li><h4> A sentiment phrase analysis app: <a href="https://type-a-phrase-app.up.railway.app/">browse online</a> | <a href="https://github.com/msc2020/type-a-phrase-app">repository</a>
+        </h4></li>
+        <li><h4> Portfolio: <a href="https://msc2020.up.railway.app/">browse online</a> | <a href="https://github.com/msc2020/app-home-page">repository</a>
+        </h4></li>
+    </ul>
+</div>
+<div>
+    <h3><u>☕ ML</u></h3>
     <ul>
         <li><h4>Clustering using Autoencoder and t-SNE: <a href="https://github.com/msc2020/autoenconder_studies/blob/main/Clustering%20using%20Autoencoder%20and%20t-SNE.ipynb">browse online</a> | <a href="https://github.com/msc2020/autoenconder_studies">repository</a>
         </h4></li>
@@ -13,20 +28,7 @@
     </ul>
 </div>
 <div>
-    <h3><u>Dev/App</u></h3>
-    <ul>
-        <li><h4> ⚡Paint ML - MNIST: <a href="https://paint-ml-mnist.up.railway.app/">browse online</a> | <a href="https://github.com/msc2020/news-agg-app">repository</a>
-        </h4></li>
-        <li><h4> A news aggregator app: <a href="https://news-agg-app.up.railway.app/">browse online</a> | <a href="https://github.com/msc2020/news-agg-app">repository</a>
-        </h4></li>
-        <li><h4> A sentiment phrase analysis app: <a href="https://type-a-phrase-app.up.railway.app/">browse online</a> | <a href="https://github.com/msc2020/type-a-phrase-app">repository</a>
-        </h4></li>
-        <li><h4> Portfolio: <a href="https://msc2020.up.railway.app/">browse online</a> | <a href="https://github.com/msc2020/app-home-page">repository</a>
-        </h4></li>
-    </ul>
-</div>
-<div>
-    <h3><u>Others</u></h3>
+    <h3><u>🤔 Others</u></h3>
     <ul>
          <li><h4> Codes developed along PHD studies (2019): <a href="https://github.com/msc2020/intersecao_de_esferas">repository</a>
         </h4></li>    
@@ -90,11 +92,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🌐, 🗄️, 💻, 🛠️, 🐧, 🌱, 🔥, 📄, 👀, ⚡, 🤖, ☕, 👋
 -->
-<!--<div>
-    <h3><u>Last Updates :</u></h3>    
-    <ul>
-        <li><h4>🤔 Aplicativo simples para checar plágio:<br> <a href="https://checaplagio-1-a4780033.deta.app/">https://checaplagio-1-a4780033.deta.app/ (clique para navegar online)</a> | <a href="https://github.com/msc2020/checa-plagio-app">ver códigos Python</a>
-        </h4></li>
-    </ul>
-</div>
-<div>-->
